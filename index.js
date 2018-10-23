@@ -24,3 +24,4 @@ function Phrase(content) {
     }
 }
 
+module.exports = Phrase
