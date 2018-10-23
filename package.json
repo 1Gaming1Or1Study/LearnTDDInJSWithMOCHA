@@ -1,8 +1,11 @@
 {
-  "name": "umar_palindrome",
-  "version": "1.0.0",
-  "description": "Palindrome detector",
+  "name": "umar-palindrome",
+  "version": "0.1.0",
+  "description": "\"Palindrome detector\"",
   "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
   "scripts": {
     "test": "mocha"
   },
@@ -10,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/umar2731/LearnTDDInJSWithMOCHA.git"
   },
-  "author": "",
+  "author": "umar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/umar2731/LearnTDDInJSWithMOCHA/issues"
