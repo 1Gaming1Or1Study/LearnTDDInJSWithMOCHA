@@ -1,5 +1,5 @@
-function reverse(string) {
-    return string.split("").reverse().join("")
+function reverse() {
+    return Array.from(this).split(" ").reverse().join("")
 } 
 
 function palindrome(string){
